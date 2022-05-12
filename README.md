@@ -15,19 +15,19 @@
 - 😄 Pronouns: She/her
 
 - 🌱 I’m currently learning everything 🤣
-- First love is software testing , then  add codding to my dream job.
-- goal is to become devOp engineer where i can test,code and work in cloud 
+- First love is software testing , then  add coding to my dream job.
+- goal is to become devOp engineer where i can test,code, deply and work in cloud within cloud.
 - I have done Internship as a FullStack Developer as well as Website Tester
 - Just completed 1 year bootcamp fullstack with CodeYourFututure (pern stack) and 6 month fullstack with Blacodeher (Mern stack)
-- Currently in a AWS 4 weeks program this will lead to getting AWS Practioner certificate.
-- Started shebuilds program too 8 weeks to become associate after i completed the for weeks cloud practioner. all this program are flexible doesnt affect me get a job.
+- Currently in a AWS 4 weeks program with TechtTalent this will lead to getting AWS Practioner certificate.
+- Started shebuilds program too 8 weeks to become associate after i completed the 4 weeks   cloud practioner re/start program. All this program are flexible doesnt affect me get a job.
 -Currently learning data structure algorithm so started  code challenges daily on leetcode still got codewars account.
 
 - 👯 I’m currently learning cloud devOp and studying for Azure Fundamental az900 and Aws cloud practioner exam. 
 
 - ⚡ Fun fact: I love to reading and learning
 
-- I have done Internship as a FullStack Developer as well as Website Tester.<br/>
+<br/>
 <br />
 
 ---
