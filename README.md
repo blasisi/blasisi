@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Bimbola Lasisi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate cloud/deveOp and a web developer  from England.</h3>
+<h3 font-size="20" align="center">A passionate a web developer  from England.</h3>
 
 
 ---
